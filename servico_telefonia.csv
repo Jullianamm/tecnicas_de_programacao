@@ -1,0 +1,247 @@
+Tipo_Unidade;Unidade;Setor;Telefone_ramal;Email;Dirigente
+Reitoria;Reitoria;Gabinete da Reitora (GRE)  ;3107 0254;unb@unb.br;Prof. Paulo Cesar Marques da Silva
+Reitoria;Reitoria;Vice-Reitoria (VRT) ;3107 0228;agendavrt@unb.br;Prof. Enrique Huelva Unternbäumen
+Reitoria;Reitoria;Auditoria Interna (AUD) ;3108;aud@unb.br;Prof. Abimael de Jesus Barros Costa
+Reitoria;Reitoria;Ouvidoria (OUV) ;3108;ouvidoria@unb.br;Maria Ivoneide de Lima Brito
+Reitoria;Reitoria;Procuradoria Federal junto à UnB  (PF/UnB) ;3108  1/39;pf.unb@unb.br;Tiago Coutinho de Oliveira
+Reitoria;Reitoria;Subscretaria de Órgãos Colegiados (SOC) ;3107 68/69;soc@unb.br;Cecília Braz Arcanjo
+Decanatos ;Decanato de Administração (DAF) ;Decanato de Administração (DAF) ;3108;daf@unb.br;Profª.Rozana Reigota Naves
+Decanatos ;Decanato de Administração (DAF) ;Diretoria de Compras (DCO) ;3107 75/82;dco@unb.br;Ricardo Silva Rodrigues de Oliveira
+Decanatos ;Decanato de Administração (DAF) ;Diretoria de Contabilidade e Finanças (DCF);3107 23/34;dcf@unb.br;Antônio Márcio Lopez Bezerra
+Decanatos ;Decanato de Administração (DAF) ;Diretoria de Gestão de Materiais (DGM);3108;dgm@unb.br;Alexandre Peixoto Bezerra
+Decanatos ;Decanato de Administração (DAF) ;Diretoria de Contratos Administrativos (DCA);3107 7086;dca@unb.br;Fernando José Barbato Couto
+Decanatos ;Decanato de Administração (DAF) ;Diretoria de Importação e Exportação (DIMEX);3107 0635;dimex@unb.br;Vitor Malheiros Guimarães Cotia
+Decanatos ;Decanato de Administração (DAF) ;Diretoria de Análise e Conformidade Processual (DAF/DACP);3107 0365;dacp@unb.br;Gabriela Pereira Cota
+Decanatos ;Decanato de Assuntos Comunitários (DAC) ;Decanato de Assuntos Comunitários (DAC) ;3108;dac@unb.br;Prof. Ileno Izídio da Costa
+Decanatos ;Decanato de Assuntos Comunitários (DAC) ;Diretoria da Diversidade (DIV) ;3107 2645;diversidade@unb.br;Susana Xavier
+Decanatos ;Decanato de Assuntos Comunitários (DAC) ;Diretoria de Atenção à Saúde da Comunidade Universitária (DASU);3108;dasu@unb.br;Profª. Larissa Polejack Brambatti
+Decanatos ;Decanato de Assuntos Comunitários (DAC) ;Diretoria de Desenvolvimento Social (DDS);3108;dds@unb.br/ssp@unb.br;Profª. Eloísa Pereira Barroso
+Decanatos ;Decanato de Assuntos Comunitários (DAC) ;Diretoria de Esporte e Atividades Comunitárias (DEAC);3107 3706;deac@unb.br;Jonatas Maia Costa
+Decanatos ;Decanato de Assuntos Comunitários (DAC) ;Diretoria do Restaurante Universitário (DRU);3108;falaru@unb.br;Cristiane Moreira da Costa
+Decanatos ;Decanato de Assuntos Comunitários (DAC) ;Diretoria de Acessibilidade (DACES);3107 6323;daces@unb.br;Profª. Sinara Pollom Zardo
+Decanatos ;Decanato de Ensino de Graduação (DEG);Decanato de Ensino de Graduação (DEG);3108;deg@unb.br;Prof. Diêgo Madureira de Oliveira
+Decanatos ;Decanato de Ensino de Graduação (DEG);Diretoria de Acompanhamento e Integração Acadêmica (DAIA);3108;daia@unb.br;Prof. Rafael Oliveira Rocha
+Decanatos ;Decanato de Ensino de Graduação (DEG);Diretoria de Inovação e Estratégias para o Ensino de ;3108;dieg_deg@unb.br;Profª. Symone Rodrigues Jardim
+Decanatos ;Decanato de Ensino de Graduação (DEG);Graduação (DIEG);;;
+Decanatos ;Decanato de Ensino de Graduação (DEG);Diretoria Técnica de Graduação (DTG);3108;dtgdeg@unb.br;Profª. Fernanda Passini Moreno
+Decanatos ;Decanato de Ensino de Graduação (DEG);Diretoria de Planejamento e Acompanhamento Pedagógico das;3108;dapli@unb.br;Eloísa Nascimento Silva Pilati
+Decanatos ;Decanato de Ensino de Graduação (DEG);Licenciaturas (DAPLI);;;
+Decanatos ;Decanato de Extensão (DEX);Decanato de Extensão (DEX);3107 27/28;redex@unb.br;Prof. Alexandre Simões Pilati
+Decanatos ;Decanato de Extensão (DEX);Diretoria de Difusão Cultural (DDC);3108;cal@unb.br;Profª Flavia Motoyama Narita
+Decanatos ;Decanato de Extensão (DEX);Diretoria de Integração Social e Desenvolvimento Regional (DDIR);3108;ddirdex@unb.br;Prof. Rogério Ferreira
+Decanatos ;Decanato de Extensão (DEX);Diretoria Técnica de Extensão (DTE);3107 0325;dtedex@gmail.com;Prof. Alexandre Simões Pilati
+Decanatos ;Decanato de Gestão de Pessoas (DGP) ;Decanato de Gestão de Pessoas (DGP) ;3107 0529 ;dgp@unb.br /dgpgabinete@unb.br Maria do Socorro Mendes Gomes;
+Decanatos ;Decanato de Gestão de Pessoas (DGP) ;Diretoria de Saúde, Segurança e Qualidade de Vida no ;2028 5516;dgpdsa@unb.br;Thiago Antônio de Mello
+Decanatos ;Decanato de Gestão de Pessoas (DGP) ;Trabalho (DSQVT);;;
+Decanatos ;Decanato de Gestão de Pessoas (DGP) ;Diretoria de Provimento, Acompanhamento e Movimentação;3127  1/6 ;dgpdpam@unb.br;Jeferson Sarmento Ferreira de Lima
+Decanatos ;Decanato de Gestão de Pessoas (DGP) ;(DPAM);;;
+Decanatos ;Decanato de Gestão de Pessoas (DGP) ;Diretoria de Capacitação, Desenvolvimento e Educação (DCADE);3107 0433;dgodcade@unb.br;Peterson Goes Silva
+Decanatos ;Decanato de Gestão de Pessoas (DGP) ;Diretoria de Administração de Pessoas (DAP);3108;dgpdap@unb.br;Willian Aparecido Rodrigues Soares
+Decanatos ;Decanato de Pesquisa e Inovação (DPI);Decanato de Pesquisa e Inovação (DPI);3107 4221;dpi@unb.br;Profª. Maria Emília Machado Telles Walter
+Decanatos ;Decanato de Pesquisa e Inovação (DPI);Diretoria de Apoio a Projetos Acadêmicos (DPA);3107 4238;dpa@unb.br;Alice Cidade da Silva Ferraz
+Decanatos ;Decanato de Pesquisa e Inovação (DPI);Diretoria de Pesquisa (DIRPE);3108;dpi_dirpe@unb.br;Profª. Cláudia Naves David Amorim
+Decanatos ;Decanato de Pesquisa e Inovação (DPI);Centro de Apoio ao Desenvolvimento Tecnológico (CDT);3107 4100;cdt@unb.br;Profª. Marileusa Dosolina Chiarello
+Decanatos ;Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO);Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO);3108;dpo@unb.br;Profa. Denise Imbroisi
+Decanatos ;Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO);Diretoria de Avaliação e Informações Gerenciais (DAI);3107 0213;dai@unb.br;Guilherme Viana Ferreira
+Decanatos ;Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO);Diretoria de Orçamento (DOR);3107 0348;dor@unb.br;Gláucia Lopes Luiz Evangelista
+Decanatos ;Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO);Diretoria de Planejamento (DPL);3107 0623;dpl@unb.br;Kátia Maria da Silva
+Decanatos ;Decanato de Planejamento, Orçamento e Avaliação Institucional (DPO);Diretoria de Processos Organizacionais (DPR);3107 0626;dpr@unb.br;Luciana Couto Nepomuceno
+Decanatos ;Decanato de Pós-Graduação (DPG);Decanato de Pós-Graduação (DPG);3108;dpg@unb.br;Prof. Lucio Remuzat Rennó Junior
+Decanatos ;Decanato de Pós-Graduação (DPG);Diretoria de Fomento à Iniciação Científica (DIRIC);3108;pibic@unb.br;Prof. Sergio Ronaldo Granemann
+Decanatos ;Decanato de Pós-Graduação (DPG);Diretoria de Pós-Graduação (DIRPG);3107 4278;dpg@unb.br;Profª. Diana Lucia Moura Pinho
+Órgãos Auxiliares ;Chefia do Gabinete da Reitora (GRE);Chefia do Gabinete da Reitora (GRE); 3107 0248 ;pcmsilva@unb.br ;Prof. Paulo César Marques da Silva
+Órgãos Auxiliares ;Prefeitura da UnB (PRC) ;Prefeitura da UnB (PRC) ;3107 3302; prefeitura@unb.br ;Valdeci da Silva Reis
+Órgãos Auxiliares ;Secretaria de Infraestrutura (INFRA) ;Secretaria de Infraestrutura (INFRA) ;3108; infra@unb.br; Augusto César Oliveira Dias
+Órgãos Auxiliares ;Secretaria de Meio Ambiente da Universidade de Brasília (SeMA);Secretaria de Meio Ambiente da Universidade de Brasília (SeMA); 3107 0557 ;sema@unb.br ;Prof. Pedro Henrique Zuchi da Conceição
+Órgãos Auxiliares ;Secretaria do Patrimônio Imobiliário (SPI);Secretaria do Patrimônio Imobiliário (SPI);3108  1/35;spimov@unb.br;Viviane Alves Costa
+Órgãos Complementares ;Arquivo Central (ACE);Arquivo Central (ACE);3108;arquivocentral@unb.br;Rodrigo de Freitas Nogueira
+Órgãos Complementares ;Biblioteca Central (BCE);Biblioteca Central (BCE);3108;informacoes.bce@unb.br;Prof. Fernando César Lima Leite
+Órgãos Complementares ;Rádio e Televisão Universitárias (UnBTV);Rádio e Televisão Universitárias (UnBTV);3108;unbtv@unb.br;Prof. Rafael Litvin Villas Bôas
+Órgãos Complementares ;Editora Universidade de Brasília (EDU);Editora Universidade de Brasília (EDU);3036;administrativoedu@unb.br;Profª. Germana Henriques Pereira
+Órgãos Complementares ;Fazenda Água Limpa (FAL);Fazenda Água Limpa (FAL);3107 9000;falunb@unb.br;Prof. Reginaldo Sérgio Pereira
+Órgãos Complementares ;Hospital Universitário (HUB/EBSERH);Hospital Universitário (HUB/EBSERH);2028 98/99;gab.hub@ebserh.gov.br;Prof. Elza Ferreira Noronha
+Órgãos Complementares ;Parque Científico e Tecnológico da ;Parque Científico e Tecnológico da ;3107 4119;pctec@unb.br;Prof. Carlos Alberto Gurgel Veras
+Órgãos Complementares ;Universidade de Brasília (PCTec);Universidade de Brasília (PCTec);;;
+Órgãos Complementares ;Secretaria de Tecnologia da Informação (STI);Secretaria de Tecnologia da Informação (STI);3107 0102;www.sti.unb.br;Prof. Jacir Luiz Bordim
+Assessorias e secretarias ;Coordenação do Cerimonial (CERI);Coordenação do Cerimonial (CERI);3107  9/86;ceri@unb.br;Marcela Barbosa da Silva
+Assessorias e secretarias ;Secretaria de Administração Acadêmica (SAA);Secretaria de Administração Acadêmica (SAA);3107 3750;saaatendimento@unb.br;Henrique Soares de Melo
+Assessorias e secretarias ;Secretaria de Assuntos Internacionais (INT);Secretaria de Assuntos Internacionais (INT);3108 10/43;intweb@unb.br;Prof. Virgílio Pereira de Almeida
+Assessorias e secretarias ;Secretaria de Comunicação (SECOM);Secretaria de Comunicação (SECOM);3107 0214;secom@unb.br;Mônica Celeida Rabelo Nogueir
+Centros ;Centro de Desenvolvimento Sustentável (CDS);Centro de Desenvolvimento Sustentável (CDS);3108;cds@unb.br;Prof. Fabiano Toni
+Centros ;Centro de Educação a Distância (CEAD);Centro de Educação a Distância (CEAD);3108;cead@unb.br;Profª. Letícia Lopes Leite
+Centros ;Centro de Estudos Avançados Multidisciplinares (CEAM);Centro de Estudos Avançados Multidisciplinares (CEAM);3108;ceam@unb.br;Profª. Viviane de Melo Resende
+Centros ;Centro de Excelência em Turismo (CET);Centro de Excelência em Turismo (CET);3107 95/96;cetrh@unb.br;Marutschka Martini Moesh
+Centros ;Centro de Pesquisa e Aplicação de Bambu e Fibras Naturais (CPAB);Centro de Pesquisa e Aplicação de Bambu e Fibras Naturais (CPAB);3108;cpab@unb.br;Prof. Jaime Gonçalves de Almeida
+Centros ;Centro de Políticas, Direito, Economia e Tecnologias das;Centro de Políticas, Direito, Economia e Tecnologias das;3107 1029;ccom@unb.br;Prfof. Marcio Iorio Aranha
+Centros ;Comunicações (CCOM);Comunicações (CCOM);;;
+Centros ;Centro de Referência em Conservação da Natureza e Recuperação de;Centro de Referência em Conservação da Natureza e Recuperação de;3108  5/94;crad@unb.br;Prof. Dr. José Roberto Rodrigues Pinto
+Centros ;Áreas Degradadas (CRAD);Áreas Degradadas (CRAD);;;
+Centros ;Centro Internacional de Bioética e Humanidades (CIBH);Centro Internacional de Bioética e Humanidades (CIBH);3108;cibh@unb.br;Profª.Gabriele Cornelli
+Centros ;Centro Internacional de Física da Matéria Condensada (CIFMC);Centro Internacional de Física da Matéria Condensada (CIFMC);3107 3300|5807;ludmilaif@unb.br;Prof. Viktor Dodonov
+Centros ;Centro UnB Cerrado (CER);Centro UnB Cerrado (CER);"ddd(62)3446 1710/(61)3107
+2239";unbcerrado@unb.br;Prof. Maria Júlia Martins Silva
+Unidades diversas ;Centro Comunitário Athos Bulcão (CCAB/PRC);Centro Comunitário Athos Bulcão (CCAB/PRC);3108;carladavid@unb.br;Carla Márcia Viana David
+Unidades diversas ;Coordenação de Desenvolvimento Acadêmico e ;Coordenação de Desenvolvimento Acadêmico e ;3108;cdap@unb.br;Thaís Alves de Costa Lamounier
+Unidades diversas ;Profissional (CDAP/DEG);Profissional (CDAP/DEG);;;
+Unidades diversas ;Coordenação de Processo Administrativo Disciplinar (CPAD);Coordenação de Processo Administrativo Disciplinar (CPAD);3108;disciplinar@unb.br;Luiz Flávio Pessoa Oliveira de Souza
+Unidades diversas ;Coordenação de Protocolo (COP/ACE);Coordenação de Protocolo (COP/ACE);3108;cop@unb.br;Eronides Guimarães Bezerra
+Unidades diversas ;Diretoria de Administração e Logística (DIRAD/PRC);Diretoria de Administração e Logística (DIRAD/PRC);3107 3302;diradprc@unb.br;Ana Cristina Brandão Ribeiro Silva
+Unidades diversas ;Diretoria de Manutenção de Equipamentos (DIMEQ/PRC);Diretoria de Manutenção de Equipamentos (DIMEQ/PRC);3108  1/8 ;dimeqprc@unb.br;Humberto Barbosa Farias
+Unidades diversas ;Diretoria de Manutenção Predial (DIMAP/PRC);Diretoria de Manutenção Predial (DIMAP/PRC);3107 3331;dimapprc@unb.br;João Victor Cavalcante Barros
+Unidades diversas ;Núcleo de Capacitação (STI/CGESP/CAP);Núcleo de Capacitação (STI/CGESP/CAP);3108;sti.cap@unb.br;Francisco Jackson Alves de Freitas
+Unidades diversas ;Hospital Veterinário (animais de grande porte - HVet);Hospital Veterinário (animais de grande porte - HVet);3468 7255;hvetgrandes@unb.b;Prof. Fábio Henrique Bezerra Ximenes 
+Unidades diversas ;Hospital Veterinário (animais de pequeno porte - HVet);Hospital Veterinário (animais de pequeno porte - HVet);3107 2801;hvetadm@unb.br;Prof. Líria Queiroz Luz Hirano
+Unidades diversas ;Livraria Universidade - Centro de Vivência;Livraria Universidade - Centro de Vivência;3107 1245;livrariacampus@unb.br;Robervânia Brito
+Unidades diversas ;Programa Permanente de Extensão UnB-Idiomas;Programa Permanente de Extensão UnB-Idiomas;3107 7223;atendimento1@unb.br;Prof. Gleiton Malta Magalhães
+Unidades diversas ;Serviço de Informação ao Cidadão (SIC/LEI 12.527/2011);Serviço de Informação ao Cidadão (SIC/LEI 12.527/2011);3107 2749;sic@unb.br;Juliano Petti
+Entidades externas ;Associação dos Aposentados da FUB (APOSFUB);Associação dos Aposentados da FUB (APOSFUB);3307 2284/3347 7976;aposfunb@gmail.com;Francisco Pedro de Oliveira
+Entidades externas ;Associação dos Docentes da UnB (ADUnB);Associação dos Docentes da UnB (ADUnB);3307 39/83;adunbss@unb.br;Prof. Luis Antonio Pasquetti
+Entidades externas ;Associação dos Ex-Alunos (Alumni);Associação dos Ex-Alunos (Alumni);3307 1089;alumni@unb.br;Pedro Ivo Santana Borges de Lima
+Entidades externas ;Associação dos Funcionários da FUB (ASFUB);Associação dos Funcionários da FUB (ASFUB);3308  1/16;asfub@unb.br;Pedro Borges
+Entidades externas ;Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (ANDIFES);Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior (ANDIFES);3321 34/45;andifes@andifes.org.br;Profa. Ângela Maria Paiva Cruz
+Entidades externas ;Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (CEBRASPE);Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos (CEBRASPE);3448 0100;sac@cebraspe.org.br;Profa. Adriana Rigon Weska
+Entidades externas ;Diretório Central dos Estudantes (DCE);Diretório Central dos Estudantes (DCE);3107 6302;dceunb@gmail.com;Renato Lucas de Carvalho
+Entidades externas ;Federação de Sindicatos de Trabalhadores Técnico-administrativos em Instituições de Ensino Superior Públicas do Brasil;Federação de Sindicatos de Trabalhadores Técnico-administrativos em Instituições de Ensino Superior Públicas do Brasil;3351  5/71;fasubra@fasubra.org.br;Rogério Fagundes Marzola
+Entidades externas ;Fundação de Apoio ao Desenvolvimento Científico e Tecnológico do HUB (FAHUB/AMIL);Fundação de Apoio ao Desenvolvimento Científico e Tecnológico do HUB (FAHUB/AMIL);3274 3000;atendimento@fahub.org.br;Prof. Eduardo Flávio Oliveira Queiroz
+Entidades externas ;Fundação de Empreendimentos Científicos e ;Fundação de Empreendimentos Científicos e ;3348 73/75;finatec@finatec.org.br;Prof. Edson Paulo da Silva
+Entidades externas ;Tecnológicos (FINATEC);Tecnológicos (FINATEC);;;
+Entidades externas ;Fundação Oswaldo Cruz (Fiocruz);Fundação Oswaldo Cruz (Fiocruz);3329 4500;direção@fiocruz.br;Prof. Gerson Oliveira Penna
+Entidades externas ;Memorial Darcy Ribeiro (Beijódromo);Memorial Darcy Ribeiro (Beijódromo);3108  3/76;memorial@fundar.org.br;Paulo Ribeiro
+Entidades externas ;Sindicato dos Trabalhadores da FUB (SINTFUB);Sindicato dos Trabalhadores da FUB (SINTFUB);3275  3/11;sintfub@unb.br;Rogério Fagundes Marzola
+Entidades externas ;Sindicato Nacional dos Docentes das IFES (ANDES);Sindicato Nacional dos Docentes das IFES (ANDES);3962 8400;secretaria@andes.org.br;Profa. Eblin Joseph Sarage
+Entidades externas ;Sociedade Brasileira para o Progresso da Ciência (SBPC/DF);Sociedade Brasileira para o Progresso da Ciência (SBPC/DF);9 9296 4607;ligia.pavanbaptista@gmail.com;Profa. Lígia Pavan Baptista
+Telefones Úteis;Plantão Segurança;Plantão Segurança;3107 6222;disegprc@unb.br;Thiago Vales Mesquita 
+Telefones Úteis;Plantão Elétrico;Plantão Elétrico;3108;dimapprc@unb.br;Thiago Vales Mesquita
+Telefones Úteis;Plantão Hidráulico;Plantão Hidráulico;3107 3444;dimapprc@unb.br;Thiago Vales Mesquita
+Unidades acadêmicas ;Faculdade de Agronomia e Medicina Veterinária (FAV) ;Faculdade de Agronomia e Medicina Veterinária (FAV) ;3108  2/27;secfav@unb.br;Profª. Simone Perecmanis
+Unidades acadêmicas ;Faculdade de Arquitetura e Urbanismo (FAU) ;Faculdade de Arquitetura e Urbanismo (FAU) ;3107 6630;fau-unb@unb.br;Prof. Marcos Thadeu Queiroz Magalhães
+Unidades acadêmicas ;Faculdade de Arquitetura e Urbanismo (FAU) ;Departamento de Projeto, Expressão e Representação em  Arquitetura e Urbanismo (PRO) ;3108;sadex@unb.br;Profª Cristiane Guinâncio
+Unidades acadêmicas ;Faculdade de Arquitetura e Urbanismo (FAU) ;Departamento de Tecnologia em Arquitetura e Urbanismo (TEC) ;3108;sadex@unb.br;Profª Andréa Prado Abreu Reis Liserre
+Unidades acadêmicas ;Faculdade de Arquitetura e Urbanismo (FAU) ;Departamento de Teoria e História em Arquitetura e Urbanismo (THAU);3108;sadex@unb.br;Prof. Carlos Henrique Magalhães de Lima
+Unidades acadêmicas ;Faculdade de Ciência da Informação (FCI) ;Faculdade de Ciência da Informação (FCI) ;3108;fci@unb.br;Prof. Renato Tarciso Barbosa de Sousa
+Unidades acadêmicas ;Faculdade de Ciências da Saúde (FS) ;Faculdade de Ciências da Saúde (FS) ;3108;fsd@unb.br;Prof. Laudimar Alves de Oliveira
+Unidades acadêmicas ;Faculdade de Ciências da Saúde (FS) ;Departamento de Enfermagem (ENF);3107 1711;enf@unb.br;Prof. Solange Baraldi
+Unidades acadêmicas ;Faculdade de Ciências da Saúde (FS) ;Departamento de Farmácia (FAR);3108  1/83;farmaciafsunb@unb.br;Profª. Angélica Amorim Amato
+Unidades acadêmicas ;Faculdade de Ciências da Saúde (FS) ;Departamento de Nutrição (NUT);3108;nut@unb.br;Profª. Eliana dos Santos Leandro
+Unidades acadêmicas ;Faculdade de Ciências da Saúde (FS) ;Departamento de Odontologia (ODT);3108;odonto@unb.br;Prof. Tiago Araújo Coelho de Souza
+Unidades acadêmicas ;Faculdade de Ciências da Saúde (FS) ;Departamento de Saúde Coletiva (DSC);3107 1951;coletiva@unb.br;Prof. Natan Monsores de Sá
+Unidades acadêmicas ;Faculdade de Comunicação (FAC) ;Faculdade de Comunicação (FAC) ;3108;fac@unb.br;Dione de Oliveira Moura
+Unidades acadêmicas ;Faculdade de Comunicação (FAC) ;Departamento de Audiovisuais e Publicidade (DAP);3108  1/65;fac@unb.br;Profª. Denise Moraes Cavalcante 
+Unidades acadêmicas ;Faculdade de Comunicação (FAC) ;Departamento de Jornalismo (JOR);3108  1/60;fac@unb.br;Prof. Zanei Ramos Barcello
+Unidades acadêmicas ;Faculdade de Comunicação (FAC) ;Departamento de Comunicação Organizacional (COM);3107 6519;facorg@unb.br;Profª. Erika Bauer de Oliveira
+Unidades acadêmicas ;Faculdade de Direito (FD) ;Faculdade de Direito (FD) ;3108;secretariafd@unb.br;Profª Daniela Marques de Moraes
+Unidades acadêmicas ;Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE) ;Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE) ;3108;face@unb.br;Prof. José Márcio Carvalho
+Unidades acadêmicas ;Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE) ;Departamento de Administração (ADM);3108;adm@unb.br;Prof. Rodrigo Rezende Ferreira
+Unidades acadêmicas ;Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE) ;Departamento de Ciências Contábeis e Atuariais (CCA);3108;sergionazare@unb.br;Prof. Sérgio Ricardo Miranda Nazaré
+Unidades acadêmicas ;Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE) ;Departamento de Economia (ECO);3108;economia@unb.br;Prof. Roberto de Goes Ellery Junior
+Unidades acadêmicas ;Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE) ;Departamento de Gestão de Políticas Públicas (GPP);3107 0755;gpop@unb.br;Profª. Christiana Soares de Freitas
+Unidades acadêmicas ;Faculdade de Economia, Administração, Contabilidade e Gestão de Políticas Públicas (FACE) ;Centro Integrado de Ordenamento Territorial (CIORD);3107 6046;ciord@unb.br;Prof. Jorge Madeira Nogueira
+Unidades acadêmicas ;Faculdade de Educação (FE) ;Faculdade de Educação (FE) ;3108  1/74;fed@unb.br;Profª. Liliane Campos Machado
+Unidades acadêmicas ;Faculdade de Educação (FE) ;Departamento de Métodos e Técnicas (MTC);3107 6157;mtcfe@unb.br;Prof. Geraldo Eustáquio Moreira
+Unidades acadêmicas ;Faculdade de Educação (FE) ;Departamento de Planejamento e Administração (PAD);3107 6173;padfe@unb.br;Profª. Kátia Curado Cordeiro Pinheiro da Silva
+Unidades acadêmicas ;Faculdade de Educação (FE) ;Departamento de Teoria e Fundamentos (TEF);3107 6159;teffe@unb.br;Profª. Liège Gemelli Kunchenbecker
+Unidades acadêmicas ;Faculdade de Educação Física (FEF) ;Faculdade de Educação Física (FEF) ;3108  1/72;fef@unb.br;Prof. Martim Francisco Bottaro Marques
+Unidades acadêmicas ;Faculdade de Educação Física (FEF) ;Centro Olímpico (CO);3107 2544;centroolimpico@unb.br;Prof. Victor Lage
+Unidades acadêmicas ;Faculdade de Medicina (FM) ;Faculdade de Medicina (FM) ;3107 1701;fmd@unb.br;Prof. Gustavo Adolfo Sierra Romero
+Unidades acadêmicas ;Faculdade de Tecnologia (FT) ;Faculdade de Tecnologia (FT) ;3108  2/69;ftd@unb.br;Prof. Márcio Muniz de Farias
+Unidades acadêmicas ;Faculdade de Tecnologia (FT) ;Departamento de Engenharia Civil e Ambiental (ENC);3108;enc@unb.br;Profª. Cláudia Marcia Coutinho Gurjão
+Unidades acadêmicas ;Faculdade de Tecnologia (FT) ;Departamento de Engenharia de Produção (EPR);3108;secepr@unb.br;Prof. Clóvis Neumann
+Unidades acadêmicas ;Faculdade de Tecnologia (FT) ;Departamento de Engenharia Elétrica (ENE);3107 5586;secene@ene.unb.br;Prof. José Edil Guimarães Medeiros
+Unidades acadêmicas ;Faculdade de Tecnologia (FT) ;Departamento de Engenharia Florestal (EFL);3107 5630;efl@unb.br;Prof. Leonardo Job Biali
+Unidades acadêmicas ;Faculdade de Tecnologia (FT) ;Departamento de Engenharia Mecânica (ENM);3107 95/98;secenm@unb.br;Prof. Edson Paulo da Silva
+Unidades acadêmicas ;Faculdade de Tecnologia (FT) ;Centro de Formação de Recursos Humanos em Transportes;3107 1652;ceftru@unb.br;Prof. Pastor Willy Gonzales Taco
+Unidades acadêmicas ;Faculdade de Tecnologia (FT) ;(CEFTRU);;;
+Unidades acadêmicas ;Faculdade UnB Ceilândia (FCE) ;Faculdade UnB Ceilândia (FCE) ;3108  3/50;fcesecadm@unb.br;Prof. João Paulo Chieregato Matheus q
+Unidades acadêmicas ;Faculdade UnB Gama (FGA) ;Faculdade UnB Gama (FGA) ;3108;direcaofga@unb.br;Prof. Sandro Augusto Pavlik Haddad
+Unidades acadêmicas ;Faculdade UnB Planaltina (FUP) ;Faculdade UnB Planaltina (FUP) ;3107 8207;fup@unb.br;Prof. Reinaldo José de Miranda Filho 
+Unidades acadêmicas ;Instituto de Artes (IdA) ;Instituto de Artes (IdA) ;3108;ida@unb.br;Profª. Fátima Aparecida dos Santos
+Unidades acadêmicas ;Instituto de Artes (IdA) ;Departamento de Artes Cênicas (CEN);3108;cen@unb.br;Prof. Fernando Antonio Pinheiro Villar de Queiroz
+Unidades acadêmicas ;Instituto de Artes (IdA) ;Departamento de Artes Visuais (VIS);3107 30/31;vis@unb.br;Profª. Ana Candida Franceschini Avelar Fernandes
+Unidades acadêmicas ;Instituto de Artes (IdA) ;Departamento de Design (DIN);3107 31/36;din@unb.br;Profª. Virginia Tiradentes Souto
+Unidades acadêmicas ;Instituto de Artes (IdA) ;Departamento de Música (MUS);3108;musica@unb.br;Prof. Vadim da Costa Arsky FilhO
+Unidades acadêmicas ;Instituto de Ciência Política (IPOL) ;Instituto de Ciência Política (IPOL) ;3108;secretariaipol@unb.br;Profª. Danusa Marques
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Instituto de Ciências Biológicas (IB) ;3108;jsantana@unb.br;Prof. Jaime Martins de Santana
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Departamento de Botânica (BOT);3107 2965;micheline.silva@unb.br;Profª. Micheline Carvalho Silva
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Departamento de Biologia Celular (CEL);3107 3045;tatianadecampos@unb.br;Profª. Tatiana Amábile de Campos
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Departamento de Ciências Fisiológicas (CFS);3107 3117;fvcaixeta@unb.br;Prof. Fabio Viegas Caixeta
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Departamento de Ecologia (ECL);3107 3005;henriq@unb.br;Prof. Raimundo Paulo Barros Henriques
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Departamento de Fitopatologia (FIT);3107 3061;marisavf@unb.br;Porfª. Marisa Alvares da Silva Velloso
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Departamento de Genética e Morfologia (GEM);3107 3082;sachabraun@unb.br;Profª. Sacha Braun Chaves
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Departamento de Zoologia (ZOO);3107 3025;rbmac@unb.br;Prof. Ricardo Bomfim Machado
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Centro de Nano Ciência e Nanobiotecnologia (CNANO);3107 3081;razevedo@unb.br;Prof. Ricardo Bentes de Azevedo
+Unidades acadêmicas ;Instituto de Ciências Biológicas (IB) ;Centro de Primatologia (CP);3107 81/88;mchtavares@unb.br;Profª. Maria Clotilde Henriques Tavares
+Unidades acadêmicas ;Instituto de Ciências Exatas (IE) ;Instituto de Ciências Exatas (IE) ;3108;exatas@unb.br;Prof. Ricardo Ruviario
+Unidades acadêmicas ;Instituto de Ciências Exatas (IE) ;Departamento de Ciência da Computação (CIC);3108;cic@unb.br;Prof. Li Weigang
+Unidades acadêmicas ;Instituto de Ciências Exatas (IE) ;Departamento de Estatística (EST);3107 98/99;est@unb.br;Profª. Eduardo Yoshio Nakano
+Unidades acadêmicas ;Instituto de Ciências Humanas (ICH) ;Instituto de Ciências Humanas (ICH) ;3107 7363;ihd@unb.br;Profª. Neuma Brilhante Rodrigues
+Unidades acadêmicas ;Instituto de Ciências Humanas (ICH) ;Departamento de Filosofia (FIL);3108;fil@unb.br;Prof. André Leclerc
+Unidades acadêmicas ;Instituto de Ciências Humanas (ICH) ;Departamento de Geografia (GEA);3108;geaunb@unb.br;Prof. Fernando Luiz Sobrinho de Araújo
+Unidades acadêmicas ;Instituto de Ciências Humanas (ICH) ;Departamento de História (HIS);3108 13/98;his@unb.br;Prof. Jonas Wilson Pegoraro
+Unidades acadêmicas ;Instituto de Ciências Humanas (ICH) ;Departamento de Serviço Social (SER);3107 38/43;ser@unb.br;Profª. Valdenízia Bento Peixoto
+Unidades acadêmicas ;Instituto de Ciências Sociais (ICS) ;Instituto de Ciências Sociais (ICS) ;3107 43/45;ics@unb.br;Prof. Arthur Trindade Maranhão Costa 
+Unidades acadêmicas ;Instituto de Ciências Sociais (ICS) ;Departamento de Antropologia (DAN);3108;dan@unb.br ;Prof. Daniel Schroeter Simião
+Unidades acadêmicas ;Instituto de Ciências Sociais (ICS) ;Departamento de Estudos Latino-Americanos (ELA);3107 80/83;ela@unb.br;Prof. Raphael Lana Seabra
+Unidades acadêmicas ;Instituto de Ciências Sociais (ICS) ;Departamento de Sociologia (SOL);3108;sol@unb.br;Prof. Stefan Klein
+Unidades acadêmicas ;Instituto de Física (IF) ;Instituto de Física (IF) ;3107 7700;direcaofisica@unb.br;Prof. Olavo Filho
+Unidades acadêmicas ;Instituto de Geociências (IG) ;Instituto de Geociências (IG) ;3108;igd@unb.br;Prof. José Elói Guimarães Campos 
+Unidades acadêmicas ;Instituto de Geociências (IG) ;Observatório Sismológico (SIS);3107 1205;obsis@unb.br;Prof. Marcelo Peres Rocha
+Unidades acadêmicas ;Instituto de Letras (IL) ;Instituto de Letras (IL) ;3108;ild@unb.br;Sandra Lúcia  Rodrigues da Rocha
+Unidades acadêmicas ;Instituto de Letras (IL) ;Departamento de Línguas Estrangeiras e Tradução (LET);3108;ilsedep@unb.br;Edna Gisela Pizarro
+Unidades acadêmicas ;Instituto de Letras (IL) ;Departamento de Linguística, Português e Línguas Clássicas (LIP);3108;ilsedep@unb.br;Heloísa Maria Moreira Lima de Almeida Salles
+Unidades acadêmicas ;Instituto de Letras (IL) ;Departamento de Teoria Literária e Literatura (TEL);3107 46/53;ilsedep@unb.br;Pedro Mandagará Ribeiro
+Unidades acadêmicas ;Instituto de Psicologia (IP) ;Instituto de Psicologia (IP) ;3107 6624;ipd@unb.br;Maria Inês Galdolfo Conceição
+Unidades acadêmicas ;Instituto de Psicologia (IP) ;Departamento de Psicologia Clínica (PCL);3108;pcl@unb.br;Porfª Daniela Sheinkman Chatelard
+Unidades acadêmicas ;Instituto de Psicologia (IP) ;Departamento de Psicologia Escolar e do Desenvolvimento (PED);3107 6830;psides@unb.br;Prof. Asdrúbal Borges Formiga Sobrinho
+Unidades acadêmicas ;Instituto de Psicologia (IP) ;Departamento de Processos Psicológicos Básicos (PPB);3108;ppb@unb.br;Profª. Vania Maria Moraes Ferreira
+Unidades acadêmicas ;Instituto de Psicologia (IP) ;Departamento de Matemática (MAT) ;3107 6479 ;secretaria@mat.unb.br ;Prof. Giovany de Jesus Malcher Figueiredo 
+Unidades acadêmicas ;Instituto de Psicologia (IP) ;Departamento de Psicologia Social e do Trabalho (PST);3107 6828;pst@unb.br;Prof. Josemberg Moura de Andrade
+Unidades acadêmicas ;Instituto de Psicologia (IP) ;Centro de Atendimento e Estudos Psicológicos (CAEP);3107-1680;asscaep@unb.br;Profª. Márcia Cristina Maesso
+Unidades acadêmicas ;Instituto de Química (IQ) ;Instituto de Química (IQ) ;3108;direcaoiq@unb.br;Prof. Marcos Juliano Prauchner
+Unidades acadêmicas ;Instituto de Relações Internacionais (IREL) ;Instituto de Relações Internacionais (IREL) ;3108;irel@unb.br;Prof. Pio Penna Filho
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;; ;;;
